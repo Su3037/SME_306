@@ -8,7 +8,7 @@ RTL for mul_architecture design
 
 【Basic 6x6 mul design process】:from 4x3 to uniform 6x6 architecture
 
-![image](https://github.com/Su3037/SME_306/image/](https://github.com/Su3037/SME_306/tree/master/image/draft_for_basic_6x6_mul.jpg)
+![image](https://github.com/Su3037/SME_306/tree/master/image/draft_for_basic_6x6_mul.jpg)
 
 ## testbench  
 TB for the RTL design
