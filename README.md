@@ -6,8 +6,9 @@ Be careful that this is not the solution for the proj, it's just a test space fo
 ## source 
 RTL for mul_architecture design 
 
-【Basic 6x6 mul design process】:from 4x3 to uniform 6x6 architecture
-![image](https://github.com/Su3037/SME_306/image/draft_for_basic_6x6_mul.jpg)
+【Basic 6x6 mul design process】:）from 4x3 to uniform 6x6 architecture，it's a very casual handwrite✍,don't care QAQ!
+
+![image](image/draft_for_basic_6x6_mul.jpg)
 
 ## testbench  
 TB for the RTL design
