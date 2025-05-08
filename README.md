@@ -13,6 +13,10 @@ RTL for mul_architecture design
 ## testbench  
 TB for the RTL design
 
+【Basic 6x6 mul tb waveform】:）All sucessed, all in dec data form.
+
+![image](image/wave_form_for_basic_6x6_mul.png)
+
 ## constrain
 CS for the RTL design (in order to test freqency or delay)
 
