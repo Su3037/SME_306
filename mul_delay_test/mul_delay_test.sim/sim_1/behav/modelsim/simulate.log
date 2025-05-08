@@ -1,0 +1,32 @@
+# //  ModelSim SE-64 10.1c Jul 28 2012 
+# //
+# //  Copyright 1991-2012 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# do {tb_basic_6x6_mul_simulate.do} 
+# vsim -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -lib xil_defaultlib -voptargs=\"+acc\" xil_defaultlib.tb_basic_6x6_mul xil_defaultlib.glbl 
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# 
+# Loading work.tb_basic_6x6_mul(fast)
+# Loading work.basic_mul_top(fast)
+# Loading work.mul_row(fast)
+# Loading work.mul_row(fast__1)
+# Loading work.half_adder(fast)
+# Loading work.full_adder(fast)
+# Loading work.mul_row(fast__2)
+# Loading work.mul_row(fast__3)
+# Loading work.mul_row(fast__4)
+# Loading work.mul_row(fast__5)
+# Loading work.glbl(fast)
+# 1
+# 1
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+# save to tb_basic_6x6_mul.wave
+# ** Note: $finish    : ../../../../../testbench/tb_basic_6x6_mul.v(70)
+#    Time: 60 ns  Iteration: 0  Instance: /tb_basic_6x6_mul

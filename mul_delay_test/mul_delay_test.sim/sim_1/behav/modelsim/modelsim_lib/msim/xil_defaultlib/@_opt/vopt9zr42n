@@ -1,0 +1,103 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\A_SUSTECH\Year3_sme_proj\digital_circuit\mul_delay_test\mul_delay_test.sim\sim_1\behav\modelsim
+T_opt
+VJl<jF3aJii:1aAFB0@:]53
+04 13 4 work basic_mul_top fast 0
+04 4 4 work glbl fast 0
+=1-e8fb1cd3eebd-681c5e4e-228-f70
+o-quiet -auto_acc_if_foreign -work xil_defaultlib -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip +acc
+n@_opt
+OL;O;10.1c;51
+vbasic_mul_top
+IYlFLobDkWzKAF;XMUWafM1
+V?RNLzAQ`3=W0j]o?Qg`ln2
+Z1 dE:\A_SUSTECH\Year3_sme_proj\digital_circuit\mul_delay_test\mul_delay_test.sim\sim_1\behav\modelsim
+w1746689301
+8../../../../../source/basic_6x6_mul/basic_mul_top.v
+F../../../../../source/basic_6x6_mul/basic_mul_top.v
+L0 1
+Z2 OL;L;10.1c;51
+r1
+31
+Z3 !s108 1746689609.443000
+Z4 !s107 ../../../../../source/basic_6x6_mul/basic_mul_top.v|../../../../../source/basic_6x6_mul/mul_row.v|../../../../../source/basic_6x6_mul/half_adder.v|../../../../../source/basic_6x6_mul/full_adder.v|
+Z5 !s90 -incr|-mfcu|-work|xil_defaultlib|../../../../../source/basic_6x6_mul/full_adder.v|../../../../../source/basic_6x6_mul/half_adder.v|../../../../../source/basic_6x6_mul/mul_row.v|../../../../../source/basic_6x6_mul/basic_mul_top.v|
+Z6 o-mfcu -work xil_defaultlib -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!i10b 1
+!s100 7e^zTIg:T9ILYkfHGBI743
+!s85 0
+vfull_adder
+IKeAK>95O6<KW4z:L=P@]B0
+VDXIz@A8ZlZIe0^?_MInkU1
+R1
+w1746686661
+8../../../../../source/basic_6x6_mul/full_adder.v
+F../../../../../source/basic_6x6_mul/full_adder.v
+L0 1
+R2
+r1
+31
+R3
+R4
+R5
+R6
+!i10b 1
+!s100 D<1WZJLah;YL_Ve0N>d]I1
+!s85 0
+vglbl
+I_9FW>b_9o8Td`DZk^^e=[1
+Vi6U]P0KL1JLBP5JImZiFN3
+R1
+w1708598507
+8glbl.v
+Fglbl.v
+L0 6
+R2
+r1
+31
+o-work xil_defaultlib -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!i10b 1
+!s100 b[Cg<Q7O;?5XQV2kgzJdl3
+!s85 0
+!s108 1746689609.586000
+!s107 glbl.v|
+!s90 -work|xil_defaultlib|glbl.v|
+vhalf_adder
+Il5Q`Z`6VQYN51ONF:Z?fV3
+VDCW[VE_Je;;;j^7F5QSOm3
+R1
+w1746686695
+8../../../../../source/basic_6x6_mul/half_adder.v
+F../../../../../source/basic_6x6_mul/half_adder.v
+L0 1
+R2
+r1
+31
+R3
+R4
+R5
+R6
+!i10b 1
+!s100 ABlBeoVoJ6n8YU@Y>FC^10
+!s85 0
+vmul_row
+I_me8hO]z9[U9KMn4ZSY]f2
+V=a:VliMH<<2M8e@Em^O;`1
+R1
+w1746688315
+8../../../../../source/basic_6x6_mul/mul_row.v
+F../../../../../source/basic_6x6_mul/mul_row.v
+L0 1
+R2
+r1
+31
+R3
+R4
+R5
+R6
+!i10b 1
+!s100 PZPZ`ahb8j:bA?O@5cii;2
+!s85 0

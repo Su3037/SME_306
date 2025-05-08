@@ -1,0 +1,134 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\A_SUSTECH\Year3_sme_proj\digital_circuit\mul_delay_test\mul_delay_test.sim\sim_1\behav\modelsim
+T_opt
+VJl<jF3aJii:1aAFB0@:]53
+04 13 4 work basic_mul_top fast 0
+Z1 04 4 4 work glbl fast 0
+=1-e8fb1cd3eebd-681c5e4e-228-f70
+Z2 o-quiet -auto_acc_if_foreign -work xil_defaultlib -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip +acc
+n@_opt
+Z3 OL;O;10.1c;51
+Z4 dE:\A_SUSTECH\Year3_sme_proj\digital_circuit\mul_delay_test\mul_delay_test.sim\sim_1\behav\modelsim
+T_opt1
+VCMWAKlznSS4c7DIkS?Td:0
+04 16 4 work tb_basic_6x6_mul fast 0
+R1
+=1-e8fb1cd3eebd-681c6a02-aa-678
+R2
+n@_opt1
+R3
+vbasic_mul_top
+I5=aMmAXhMUS7PNbml:_710
+V?RNLzAQ`3=W0j]o?Qg`ln2
+R4
+w1746692599
+8../../../../../source/basic_6x6_mul/basic_mul_top.v
+F../../../../../source/basic_6x6_mul/basic_mul_top.v
+L0 1
+Z5 OL;L;10.1c;51
+r1
+31
+Z6 !s90 -incr|-mfcu|-work|xil_defaultlib|../../../../../source/basic_6x6_mul/basic_mul_top.v|../../../../../source/basic_6x6_mul/full_adder.v|../../../../../source/basic_6x6_mul/half_adder.v|../../../../../source/basic_6x6_mul/mul_row.v|../../../../../testbench/tb_basic_6x6_mul.v|
+Z7 o-mfcu -work xil_defaultlib -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z8 !s107 ../../../../../testbench/tb_basic_6x6_mul.v|../../../../../source/basic_6x6_mul/mul_row.v|../../../../../source/basic_6x6_mul/half_adder.v|../../../../../source/basic_6x6_mul/full_adder.v|../../../../../source/basic_6x6_mul/basic_mul_top.v|
+!i10b 1
+!s100 GWG?]2W[:VKYz3G8<Klm?1
+!s85 0
+!s108 1746692606.315000
+vfull_adder
+IKeAK>95O6<KW4z:L=P@]B0
+VDXIz@A8ZlZIe0^?_MInkU1
+R4
+w1746686661
+8../../../../../source/basic_6x6_mul/full_adder.v
+F../../../../../source/basic_6x6_mul/full_adder.v
+L0 1
+R5
+r1
+31
+Z9 !s108 1746689609.443000
+Z10 !s107 ../../../../../source/basic_6x6_mul/basic_mul_top.v|../../../../../source/basic_6x6_mul/mul_row.v|../../../../../source/basic_6x6_mul/half_adder.v|../../../../../source/basic_6x6_mul/full_adder.v|
+Z11 !s90 -incr|-mfcu|-work|xil_defaultlib|../../../../../source/basic_6x6_mul/full_adder.v|../../../../../source/basic_6x6_mul/half_adder.v|../../../../../source/basic_6x6_mul/mul_row.v|../../../../../source/basic_6x6_mul/basic_mul_top.v|
+R7
+!s10a 1746686661
+!i10b 1
+!s100 D<1WZJLah;YL_Ve0N>d]I1
+!s85 0
+vglbl
+I_9FW>b_9o8Td`DZk^^e=[1
+Vi6U]P0KL1JLBP5JImZiFN3
+R4
+w1708598507
+8glbl.v
+Fglbl.v
+L0 6
+R5
+r1
+31
+o-work xil_defaultlib -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!i10b 1
+!s100 b[Cg<Q7O;?5XQV2kgzJdl3
+!s85 0
+!s108 1746692606.361000
+!s107 glbl.v|
+!s90 -work|xil_defaultlib|glbl.v|
+vhalf_adder
+Il5Q`Z`6VQYN51ONF:Z?fV3
+VDCW[VE_Je;;;j^7F5QSOm3
+R4
+w1746686695
+8../../../../../source/basic_6x6_mul/half_adder.v
+F../../../../../source/basic_6x6_mul/half_adder.v
+L0 1
+R5
+r1
+31
+R9
+R10
+R11
+R7
+!s10a 1746686695
+!i10b 1
+!s100 ABlBeoVoJ6n8YU@Y>FC^10
+!s85 0
+vmul_row
+I_me8hO]z9[U9KMn4ZSY]f2
+V=a:VliMH<<2M8e@Em^O;`1
+R4
+w1746688315
+8../../../../../source/basic_6x6_mul/mul_row.v
+F../../../../../source/basic_6x6_mul/mul_row.v
+L0 1
+R5
+r1
+31
+R9
+R10
+R11
+R7
+!s10a 1746688315
+!i10b 1
+!s100 PZPZ`ahb8j:bA?O@5cii;2
+!s85 0
+vtb_basic_6x6_mul
+ID8A`46N6PMk0P9DG<0[AR3
+ViPNInk2?>6j[l>1NS7e6S0
+R4
+w1746690469
+8../../../../../testbench/tb_basic_6x6_mul.v
+F../../../../../testbench/tb_basic_6x6_mul.v
+L0 2
+R5
+r1
+31
+R7
+R6
+R8
+!s10a 1746690469
+!i10b 1
+!s100 8IBQXhBZXdf>6nS_Id1fg0
+!s85 0
+!s108 1746690476.567000

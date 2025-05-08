@@ -1,0 +1,17 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version      : Vivado v.2024.1 (win64) Build 5076996 Wed May 22 18:37:14 MDT 2024
+| Date              : Thu May  8 16:36:24 2025
+| Host              : ASUS running 64-bit major release  (build 9200)
+| Command           : report_bus_skew -warn_on_violation -file freq_test_bus_skew_routed.rpt -pb freq_test_bus_skew_routed.pb -rpx freq_test_bus_skew_routed.rpx
+| Design            : freq_test
+| Device            : xcvu9p-flga2104
+| Speed File        : -2L  PRODUCTION 1.28 03-30-2022
+| Design State      : Routed
+| Temperature Grade : E
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Bus Skew Report
+
+No bus skew constraints
+
