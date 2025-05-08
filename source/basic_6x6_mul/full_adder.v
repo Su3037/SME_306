@@ -1,3 +1,12 @@
+//==============================================================================================================
+// File Name    : full_adder.v
+// Module Name  : full_adder
+// Author       : Supan
+// Version      : 1.0
+// Modified     : 2024/05/8
+// Description  : a simple full_adder
+// Features     : 
+//==============================================================================================================
 module full_adder(
     input  a   , 
     input  b   , 

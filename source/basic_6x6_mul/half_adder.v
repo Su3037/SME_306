@@ -1,3 +1,12 @@
+//==============================================================================================================
+// File Name    : half_adder.v
+// Module Name  : half_adder
+// Author       : Supan
+// Version      : 1.0
+// Modified     : 2024/05/8
+// Description  : a simple full_adder
+// Features     : 
+//==============================================================================================================
 module half_adder(
     input  a   , 
     input  b   , 
